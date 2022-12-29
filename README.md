@@ -22,6 +22,6 @@
 
 <h3 align="left">その他</h3>
 <p align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfes0e2b3c&layout=compact&theme=onedark">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=arfes0e2b3c&theme=onedark">
+  <img height="150px" src="https://github-readme-stats-arfes0e2b3c.vercel.app/api/top-langs/?username=arfes0e2b3c&layout=compact&theme=onedark">
+  <img height="150px" src="https://github-readme-stats-arfes0e2b3c.vercel.app/api?username=arfes0e2b3c&theme=onedark">
 </p>
