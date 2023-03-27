@@ -28,3 +28,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfes0e2b3c&layout=compact&theme=onedark">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=arfes0e2b3c&theme=onedark">
 </p>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=arfes0e2b3c&column=8&theme=gruvbox&no-frame=true"/>
+</a>
