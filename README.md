@@ -25,8 +25,8 @@
 
 <h2 align="left">その他</h2>
 <p align="left">
-  <img card_width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfes0e2b3c&layout=compact&theme=onedark&langs_count=8&hide=c%2B%2B,cmake,c,swift">
-  <img card_width="500px" src="https://github-readme-stats.vercel.app/api?username=arfes0e2b3c&theme=onedark">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfes0e2b3c&layout=compact&theme=onedark&langs_count=8&hide=c%2B%2B,cmake,c,swift">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=arfes0e2b3c&theme=onedark">
 </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
