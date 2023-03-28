@@ -25,10 +25,10 @@
 
 <h2 align="left">その他</h2>
 <p align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfes0e2b3c&layout=compact&theme=onedark">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=arfes0e2b3c&theme=onedark">
+  <img card_width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfes0e2b3c&layout=compact&theme=onedark&langs_count=8&hide=c%2B%2B,cmake,c,swift">
+  <img card_width="500px" src="https://github-readme-stats.vercel.app/api?username=arfes0e2b3c&theme=onedark">
 </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=arfes0e2b3c&column=8&theme=gruvbox&no-frame=true"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=arfes0e2b3c&column=8&theme=gruvbox&no-frame=true"/>
 </a>
